@@ -5,7 +5,7 @@ survey_id = "SV_4TLSPrwNIjymdh3"
 
 # this text will appear in each question
 ab_question_text = "Which of the following sounds the most natural?"
-mc_question_text= "Which of the following words you heard the TED speaker said?"
+mc_question_text= "" #Which of the following words you heard the TED speaker said?
 trs_question_text = "Please type the sentence you hear in this audio sample."
 mushra_question_text = "How natural are the following speech recordings? <br> Reference: "
 mos_question_text = "Listen to this speech sample, then rate the quality of the speech."

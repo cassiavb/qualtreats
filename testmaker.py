@@ -18,6 +18,7 @@ save_as = "output-survey.qsf"
 audio_html_template = "audio_template.html"
 video_html_template = "video_template.html"
 play_button = "play_button.html"
+question_text_container_html = "question_text_container.html"
 useVideo = True
 
 # load JSON template from file
@@ -34,6 +35,11 @@ def get_player_html(url):
 def get_video_player_html(url, qid):
     with open(video_html_template) as html_file:
         return Template(html_file.read()).substitute(url=url, qid=qid)
+
+# question phrase text container
+def get_question_text_html(qid):
+    with open(question_text_container_html) as html_file:
+        return Template(html_file.read()).substitute(qid=qid)
 
 # audio player with only play/pause controls for MUSHRA tests
 # to prevent participants identifying hidden reference by duration
@@ -95,6 +101,8 @@ def make_question(qid, urls, basis_question,question_type,
     if useVideo:
         new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('play_button',f'play_button{qid}')
         new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('video',f'video{qid}')
+        new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('question_text_container', f'question_text_container{qid}')
+
 
     try: # call handler function for each question type
         question_function(new_q, urls, qid)
@@ -233,14 +241,21 @@ def main():
 
     url_dict = {arg:format_urls(arg, *argument_dict[arg]) for arg in args}
 
+    #dictionary of urls
+    # print(url_dict)
+
     # format_urls() returns tuple of urls & anything else that's embedded in question
     # (for MC & trs it's the sentence text, for MUSHRA it's the reference URL)
     # split dictionary value tuples into keyyed subdictionary
     for key, value in url_dict.items():
         url_dict[key] = {'urls' : value[0], 'extra':value[1]}
+        print(key)
+        print(value)
 
     # get sentences from file to embed in multiple choice questions
     mc_sentences = get_sentences(config.mc_sentence_file)
+
+
 
     # get json to use as basis for new questions
     basis_json = get_basis_json()
@@ -278,9 +293,11 @@ def main():
     basis_survey_count = elements[7]
 
     # store question text set in config.py, add an audio player where required
+    #Here we can add html elements tot he question structure
     q_text_dict = { 'ab': config.ab_question_text,
                     'abc': config.ab_question_text,
                     'mc': f"{get_video_player_html('$urls', '$qid')}\
+                            {get_question_text_html('$qid')}\
                             {config.mc_question_text} ",
                     'trs': f"{config.trs_question_text}\
                              {get_player_html('$urls')}",
@@ -323,7 +340,7 @@ def main():
                 split_sentence = sentence.split(' ')
                 # update answers to questions based on sentence files
                 for x in range(num_answers_in_closed_set):
-                    #this is where words from file sentences.txt are added as answer options
+                    #this is where words from file sentences.txt are added as answer options in multiple choice questions
                     basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x]
 
             mushra_ref_id = n*(len(url_set)+1) # unique id for every ref sample
@@ -334,6 +351,7 @@ def main():
                                                          sentence=sentence,
                                                          qid=str(q_counter)
                                                          )
+
             # make a new question and add it to the list of questions
             questions.append(make_question(
                                 # question number (starting at 1)
