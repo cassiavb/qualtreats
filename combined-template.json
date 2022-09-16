@@ -196,11 +196,19 @@
                     },
                     "2": {
                         "Display": "No"
+                    },
+                    "3": {
+                        "Display": "Maybe"
+                    },
+                     "4": {
+                        "Display": "Nothing"
                     }
                 },
                 "ChoiceOrder": [
                     1,
-                    2
+                    2,
+                    3,
+                    4
                 ],
                 "Validation": {
                     "Settings": {
@@ -212,7 +220,8 @@
                 "Language": [],
                 "NextChoiceId": 3,
                 "NextAnswerId": 1,
-                "QuestionID": "QID2"
+                "QuestionID": "QID2",
+                "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function() {\n\tconst QuestionBody = jQuery(\"div.QuestionBody\");\n\n\tQuestionBody.hide();\n\n\tconst Video = jQuery(\"#video\")\n\tconst PlayButton = jQuery(\"#play_button\");\n\n\tVideo.css(\"pointerEvents\",\"none\");\n\t\n\tPlayButton.click(() => {\n\t\tif (Video[0].ended) return;\n\t\tVideo[0].play();\n\t});\n\t\n\t\n\tlet onVideoEnded = () => {\n\t\t\tQuestionBody.show();\n  \t\t\tPlayButton.html(\"Video ended\");\n\t\t    PlayButton[0].disabled = true;\n\t};\n\t\n\tVideo[0].on(\"ended\", onVideoEnded);\n});\n\nQualtrics.SurveyEngine.addOnReady(function() {});\n\n\nQualtrics.SurveyEngine.addOnUnload(function() {});"
             }
         },
         {

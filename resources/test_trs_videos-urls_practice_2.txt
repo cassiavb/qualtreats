@@ -1,0 +1,4 @@
+https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr5/yjYrxcGSWX4_030_5_16_S_speech_CS_F_UGHzKaAOOcA_all_5_mixed.mp4
+https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr5/XZfKdlIRqYk_019_5_16_S_speech_CS_M_iB4MS1hsWXU_all_5_mixed.mp4
+https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr10/yjYrxcGSWX4_021_10_17_S_noise_CIN_hairdryer_027_10_mixed.mp4
+https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr10/XZfKdlIRqYk_004_10_13_S_noise_CIN_hairdryer_025_10_mixed.mp4

@@ -280,8 +280,8 @@ def main():
     # store question text set in config.py, add an audio player where required
     q_text_dict = { 'ab': config.ab_question_text,
                     'abc': config.ab_question_text,
-                    'mc': f"{config.mc_question_text} Sentence: <em>\
-                            {'$sentence'}{get_player_html('$urls')}</em>",
+                    'mc': f"{get_video_player_html('$urls', '$qid')}\
+                            {config.mc_question_text} ",
                     'trs': f"{config.trs_question_text}\
                              {get_player_html('$urls')}",
                     'trs_video': f"{get_video_player_html('$urls', '$qid')}\
@@ -308,12 +308,24 @@ def main():
     mc_counter = 0
     mushra_counter = 0
 
+    num_answers_in_closed_set = 4
+
     for arg in args:
         for n, url_set in enumerate(url_dict[arg]['urls']): # for each url set for that question type
             # get MUSHRA reference url if the current flag == -mushra
             ref_url = url_dict['mushra']['extra'][mushra_counter] if arg == 'mushra' else None
             # get MC sentence if the current flag == -mc
             sentence = mc_sentences[url_dict['mc']['extra'][mc_counter]] if arg == 'mc' else None
+            if sentence is not None:
+                # remove start and end quotes
+                sentence = sentence.strip('\'')
+                # split sentence to get words
+                split_sentence = sentence.split(' ')
+                # update answers to questions based on sentence files
+                for x in range(num_answers_in_closed_set):
+                    #this is where words from file sentences.txt are added as answer options
+                    basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x]
+
             mushra_ref_id = n*(len(url_set)+1) # unique id for every ref sample
             # embed required url or sentence into the question text
             text = Template(q_text_dict[arg]).substitute(ref_url=ref_url,
