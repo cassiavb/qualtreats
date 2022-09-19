@@ -66,6 +66,9 @@ def format_urls(question_type, file_1, file_2=None, file_3=None):
             elif question_type == 'mc':
                 names, urls = zip(*(l.replace('\n','').split(' ', 1)  for l in f1))
                 return urls, names
+            elif question_type == 'mc_audio':
+                names, urls = zip(*(l.replace('\n','').split(' ', 1)  for l in f1))
+                return urls, names
             elif question_type == 'mushra': # returns test & reference url lists
                 lines = f1.readlines()
                 # make ref audio urls to embedded in the question text
@@ -207,6 +210,8 @@ def main():
     parser.add_argument("-mc", action='store_true',
                         help="make multiple choice questions"
                         "(like error detection)")
+    parser.add_argument("-mc_audio", action='store_true',
+                        help="make multiple choice questions with audio stimuli ")
     parser.add_argument("-trs", action='store_true',
                         help="make transcription questions (with text field)")
     parser.add_argument("-trs_video", action='store_true',
@@ -234,26 +239,28 @@ def main():
                      'trs':[config.trs_file],
                      'trs_video':[config.trs_video_file],
                      'mushra':[config.mushra_files],
-                     'mos':[config.mos_file]
+                     'mos':[config.mos_file],
+                     'mc_audio':[config.mc_file]
                      }
     # create a dictionary with key=command line arg & value= output of format_urls()
     # function's arguments are taken from argument_dict
 
     url_dict = {arg:format_urls(arg, *argument_dict[arg]) for arg in args}
 
-    #dictionary of urls
-    # print(url_dict)
+    print(url_dict)
 
     # format_urls() returns tuple of urls & anything else that's embedded in question
     # (for MC & trs it's the sentence text, for MUSHRA it's the reference URL)
     # split dictionary value tuples into keyyed subdictionary
     for key, value in url_dict.items():
-        url_dict[key] = {'urls' : value[0], 'extra':value[1]}
         print(key)
         print(value)
+        url_dict[key] = {'urls' : value[0], 'extra':value[1]}
 
     # get sentences from file to embed in multiple choice questions
     mc_sentences = get_sentences(config.mc_sentence_file)
+    #todo: can i use the same sentence file?
+    mc_audio_sentences = get_sentences(config.mc_sentence_file)
 
 
 
@@ -269,6 +276,7 @@ def main():
     # element order is survey-dependent- check if you're using a new template
     basis_question_dict = {'ab': elements[12],
                            'mc': elements[8],
+                           'mc_audio': elements[8],
                            'trs':elements[11],
                            'trs_video':elements[14],
                            'abc': elements[13],
@@ -276,10 +284,11 @@ def main():
                            'mos':elements[10]}
 
     # update multiple choice answer text in template to save computation
-    (basis_question_dict['mc']['Payload']['Choices']
-                        ['1']['Display']) = config.mc_choice_text[0]
-    (basis_question_dict['mc']['Payload']['Choices']
-                        ['2']['Display']) = config.mc_choice_text[1]
+    #Multiple choice question answers are provided in file sentences.txt
+    # (basis_question_dict['mc']['Payload']['Choices']
+    #                     ['1']['Display']) = config.mc_choice_text[0]
+    # (basis_question_dict['mc']['Payload']['Choices']
+    #                     ['2']['Display']) = config.mc_choice_text[1]
 
     # turn off answer order randomisation for MC questions (ie Yes/No)
     # comment out these 2 lines to add randomisation
@@ -299,6 +308,8 @@ def main():
                     'mc': f"{get_video_player_html('$urls', '$qid')}\
                             {get_question_text_html('$qid')}\
                             {config.mc_question_text} ",
+                    'mc_audio': f"{get_player_html('$urls')} , \
+                                {get_question_text_html('$qid')} ",
                     'trs': f"{config.trs_question_text}\
                              {get_player_html('$urls')}",
                     'trs_video': f"{get_video_player_html('$urls', '$qid')}\
@@ -306,12 +317,14 @@ def main():
                     'mushra': f"{config.mushra_question_text}\
                                 {get_play_button('$ref_url', '$ref_id')}",
                     'mos': f"{config.mos_question_text}\
-                             {get_player_html('$urls')}" }
+                             {get_player_html('$urls')}"
+    }
 
     # keys=question types and values= functions for making questions
     handler_dict = {'ab': ab_q,
                     'abc': ab_q,
                     'mc': None,
+                    'mc_audio':None,
                     'trs': None,
                     'trs_video': None,
                     'mushra': mushra_q,
