@@ -247,15 +247,11 @@ def main():
 
     url_dict = {arg:format_urls(arg, *argument_dict[arg]) for arg in args}
 
-    print(url_dict)
-
     # format_urls() returns tuple of urls & anything else that's embedded in question
     # (for MC & trs it's the sentence text, for MUSHRA it's the reference URL)
     # split dictionary value tuples into keyyed subdictionary
     for key, value in url_dict.items():
-        print(key)
-        print(value)
-        url_dict[key] = {'urls' : value[0], 'extra':value[1]}
+        url_dict[key] = {'urls' : value[0], 'extra':value[1]} #url, filename. Key is the question type
 
     # get sentences from file to embed in multiple choice questions
     mc_sentences = get_sentences(config.mc_sentence_file)
@@ -338,7 +334,7 @@ def main():
     mc_counter = 0
     mushra_counter = 0
 
-    num_answers_in_closed_set = 4
+    num_answers_in_closed_set = 5
 
     for arg in args:
         for n, url_set in enumerate(url_dict[arg]['urls']): # for each url set for that question type
@@ -354,7 +350,7 @@ def main():
                 # update answers to questions based on sentence files
                 for x in range(num_answers_in_closed_set):
                     #this is where words from file sentences.txt are added as answer options in multiple choice questions
-                    basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x]
+                    basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'') #strip is ued to remove the last ' after none
 
             mushra_ref_id = n*(len(url_set)+1) # unique id for every ref sample
             # embed required url or sentence into the question text
