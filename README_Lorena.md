@@ -8,3 +8,5 @@ python testmaker.py -trs_video
 
 #### to create MC questions using a video:
 python testmaker.py -mc
+
+python testmaker.py-mc_audio #for mc audio-only questions

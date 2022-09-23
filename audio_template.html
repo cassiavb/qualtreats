@@ -1,1 +1,23 @@
-<audio class="qmedia" controls="true" height="40" preload="auto" width="320"><source src="$url" type="audio/wav" /><embed class="qmedia" flashconsts="file=$url&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false" height="20" pluginspage="http://adobe.com/flashplayer/" src="/WRQualtricsShared/Flash/flvplayer.swf" type="application/x-shockwave-flash" width="320" wmode="transparent" /></audio>
+<div id="audio_container">
+<audio class="qmedia" id="audio$qid" height="40" width="320" preload="auto" controls="false" hidden="true"><source src="$url" type="audio/wav" /> <embed align="middle" autoplay="false" class="qmedia" controller="false" pluginspage="http://adobe.com/flashplayer/" src="$url" type="application/x-shockwave-flash"></audio></div>
+<div id="button_container"><button id="play_button$qid" type="button">Play audio</button></div>
+
+<style type="text/css">
+#play_button$qid {
+ background-color: #00CBF0;
+ padding: .5em;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ border-radius: 6px;
+ color: #000000;
+ font-family: 'Oswald';
+ font-size: 20px;
+ text-decoration: none;
+ border: none;
+}
+#play_button$qid:hover {
+ border: none;
+ background: #49D9F2;
+ box-shadow: 0px 0px 1px #777;
+}
+</style>
