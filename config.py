@@ -30,6 +30,7 @@ trs_file = "resources/trs-urls.txt"
 # trs_video_file = "resources/trs_videos-urls_practice.txt"
 # trs_video_file = "resources/trs_videos-url.txt"
 trs_video_file = "pilot_test_resources/trs_videos-url.txt"
+# trs_video_file = "pilot_test_resources/trs_videos-urls_practice.txt"
 mos_file = "resources/mos-urls.txt"
 # mushra filenames should be the same across folders
 # audiofile urls should vary only by folder name
