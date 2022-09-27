@@ -3,10 +3,12 @@ This is a tool for automating the process of creating online listening tests in 
 
 ## Running the script
 
-Just run:
+To create trs questions with video stimuli run:
+
 python testmaker.py -trs_video 
 
-#### to create MC questions using a video:
+To create MC questions with video stimuli run:
+
 python testmaker.py -mc
 
-python testmaker.py-mc_audio #for mc audio-only questions
+python testmaker.py -mc_audio #for mc audio-only questions
