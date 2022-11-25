@@ -24,7 +24,12 @@ abc_file3 = "resources/abc-urls-3.txt"
 # mc_file = "pilot_test_resources/mc-video-urls_practice.txt"
 mc_file = "evaluation_resources/mc-video-urls_evaluation_w_validation.txt"
 # mc_audio_file = "resources/mc-audio-urls.txt"
-mc_audio_file = "pilot_test_resources/mc-audio-urls.txt"
+# mc_audio_file = "pilot_test_resources/mc-audio-urls.txt"
+#audio_only evaluation:
+# mc_audio_file = "evaluation_resources/ao_mc_audio_urls.txt"
+# mc_audio_file = "evaluation_resources/ao_mc_audio_and_images_urls.txt"
+### Check and practice files:
+mc_audio_file = "evaluation_resources/ao_mc_audio_PRACTICE_and_images_urls.txt"
 trs_file = "resources/trs-urls.txt"
 # trs_file = "evaluation_resources/trs_videos-urls.txt"
 # trs_video_file = "resources/trs_video-urls.txt"
@@ -48,4 +53,8 @@ mushra_ref_folder = "G1THA"
 # mc_sentence_file = "resources/sentences.txt"
 # mc_sentence_file = "pilot_test_resources/pilot_alternatives_120.txt"
 # mc_sentence_file = "pilot_test_resources/pilot_alternatives_practice.txt"
-mc_sentence_file = "evaluation_resources/mc-video-alternatives_w_validation.txt"
+# mc_sentence_file = "evaluation_resources/mc-video-alternatives_w_validation.txt"
+# mc_audio
+# mc_sentence_file = "evaluation_resources/ao_mc-audio-alternatives_file.txt"
+### Check and practice files:
+mc_sentence_file = "evaluation_resources/ao_mc-audio-PRACTICE_alternatives_file.txt"

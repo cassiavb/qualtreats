@@ -11,4 +11,7 @@ To create MC questions with video stimuli run:
 
 python testmaker.py -mc
 
+To create MC questions with audio-only stimuli run:
+
 python testmaker.py -mc_audio #for mc audio-only questions
+python testmaker.py -mc_audio -nblocks 10

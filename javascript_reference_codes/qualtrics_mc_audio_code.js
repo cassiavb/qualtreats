@@ -1,5 +1,5 @@
 Qualtrics.SurveyEngine.addOnload(function() {
-	const TextLabel = jQuery("div#question_text_container2");
+	const TextLabel = jQuery("div#question_text_container");
 	const FirstAnswer = jQuery("#"+this.questionId+" input[choiceid=1]").closest("li").hide();
 	const SecondAnswer = jQuery("#"+this.questionId+" input[choiceid=2]").closest("li").hide();
 	const ThirdAnswer = jQuery("#"+this.questionId+" input[choiceid=3]").closest("li").hide();
@@ -18,7 +18,6 @@ Qualtrics.SurveyEngine.addOnload(function() {
 	const Audio = jQuery("#audio")
 	const PlayButton = jQuery("#play_button");
 
-s
 	Audio.css("pointerEvents","none");
 	PlayButton.click(() => {
 		if (Audio[0].ended) return;
@@ -35,11 +34,11 @@ s
 
 		PlayButton.html("Audio file ended");
 	    PlayButton[0].disabled = true;
+	}
 
 	Audio[0].on("ended", onAudioEnded);
 	jQuery('ul li:eq(0), ul li:eq(1), ul li:eq(2), ul li:eq(3), ul li:eq(4)').find('input[type="radio"]').change(function(){
 	that.enableNextButton();});
-	}
 
 });
 

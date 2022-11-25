@@ -8,6 +8,7 @@ import os
 import sys
 # local imports
 import config
+import numpy as np
 
 # new template files can be created in Qualtrics by creating a
 # question with your specifications and exporting the survey file
@@ -17,6 +18,7 @@ save_as = "output-survey.qsf"
 # audio templates should not be changed
 audio_html_template = "audio_template.html"
 video_html_template = "video_template.html"
+image_html_template = "image_template.html"
 # play_button = "play_button.html"
 question_text_container_html = "question_text_container.html"
 useVideo = True
@@ -34,6 +36,11 @@ def get_player_html(url, qid):
 # standard video player for all question types except MUSHRA
 def get_video_player_html(url, qid):
     with open(video_html_template) as html_file:
+        return Template(html_file.read()).substitute(url=url, qid=qid)
+
+# Get images from speakers
+def get_image_html(url, qid):
+    with open(image_html_template) as html_file:
         return Template(html_file.read()).substitute(url=url, qid=qid)
 
 # question phrase text container (it is an html object so that it can be hidden)
@@ -64,9 +71,12 @@ def format_urls(question_type, file_1, file_2=None, file_3=None):
         except:
             if question_type == 'mos' or question_type == 'trs' or question_type == 'trs_video':
                 return [l for l in f1], []
-            elif question_type == 'mc' or question_type == 'mc_audio':
-                names, urls = zip(*(l.replace('\n','').split(' ', 1)  for l in f1))
+            elif question_type == 'mc':
+                names, urls= zip(*(l.replace('\n','').split(' ', 1)  for l in f1))
                 return urls, names
+            elif question_type == 'mc_audio':
+                names, urls, urls_images = zip(*(l.replace('\n', '').split(' ') for l in f1)) #line has 3 columns
+                return urls, urls_images, names
             elif question_type == 'mushra': # returns test & reference url lists
                 lines = f1.readlines()
                 # make ref audio urls to embedded in the question text
@@ -105,16 +115,11 @@ def make_question(qid, urls, basis_question,question_type,
             new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('play_button',f'play_button{qid}')
             new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('video',f'video{qid}')
             new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('audio',f'audio{qid}')
+            new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('image', f'image{qid}')
             new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('question_text_container',f'question_text_container{qid}')
         elif question_type == 'trs_video':
             new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('play_button', f'play_button{qid}')
             new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('video', f'video{qid}')
-
-        # elif question_type == 'mc_audio':
-        #     new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('play_button', f'play_button{qid}')
-        #     new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('audio', f'audio{qid}')
-        #     new_q['Payload']['QuestionJS'] = new_q['Payload']['QuestionJS'].replace('question_text_container',
-        #                                                                             f'question_text_container{qid}')
 
     try: # call handler function for each question type
         question_function(new_q, urls, qid)
@@ -259,11 +264,15 @@ def main():
     # (for MC & trs it's the sentence text, for MUSHRA it's the reference URL)
     # split dictionary value tuples into keyyed subdictionary
     for key, value in url_dict.items():
-        url_dict[key] = {'urls' : value[0], 'extra':value[1]} #url, filename. Key is the question type
+        if key == 'mc_audio':
+            url_dict[key] = {'urls': value[0], 'urls_images': value[1], 'extra': value[2]}  # url, filename. Key is the question type
+        else:
+            url_dict[key] = {'urls': value[0], 'extra': value[1]}  # url, filename. Key is the question type
+        # print(url_dict[key]['extra'])
+        # print(url_dict[key]['urls_images'])
     # get sentences from file to embed in multiple choice questions
     mc_sentences = get_sentences(config.mc_sentence_file)
-    # #todo: can i use the same sentence file?, it is the same sentences file...
-    # mc_audio_sentences = get_sentences(config.mc_sentence_file)
+
 
 
 
@@ -307,14 +316,16 @@ def main():
     basis_survey_count = elements[7]
 
     # store question text set in config.py, add an audio player where required
-    #Here we can add html elements tot he question structure
+    #Here we can add html elements to the question structure
     q_text_dict = { 'ab': config.ab_question_text,
                     'abc': config.ab_question_text,
                     'mc': f"{get_video_player_html('$urls', '$qid')}\
                             {get_question_text_html('$qid')}\
                             {config.mc_question_text} ",
-                    'mc_audio': f"{get_player_html('$urls', '$qid')} \
-                                {get_question_text_html('$qid')}",
+                    'mc_audio': f"{get_image_html('$urls_images', '$qid')}\
+                                {get_player_html('$urls', '$qid')} \
+                                {get_question_text_html('$qid')}\
+                                {config.mc_question_text}",
                     'trs': f"{config.trs_question_text}\
                              {get_player_html('$urls', '$qid')}",
                     'trs_video': f"{get_video_player_html('$urls', '$qid')}\
@@ -371,12 +382,21 @@ def main():
                         else:
                             basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'') #strip is ued to remove the last ' after none
                     elif arg == 'mc_audio':
-                        basis_question_dict['mc_audio']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'') #strip is ued to remove the last ' after none
+                        if x == num_answers_in_closed_set-1:
+                            basis_question_dict['mc_audio']['Payload']['Choices'][str(x + 1)]['Display'] = 'none of these'.strip('\'')  # strip is ued to remove the last ' after none
+                        else:
+                            basis_question_dict['mc_audio']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'') #strip is ued to remove the last ' after none
             mushra_ref_id = n*(len(url_set)+1) # unique id for every ref sample
+            #update url of speaker image:
+            if arg == 'mc_audio':
+                image_url = url_dict[arg]['urls_images'][n] #todo: with n or without it
+            # print(image_url)
+
             # embed required url or sentence into the question text
             text = Template(q_text_dict[arg]).substitute(ref_url=ref_url,
                                                          ref_id=mushra_ref_id,
                                                          urls=url_set,
+                                                         urls_images=image_url,
                                                          sentence=sentence,
                                                          qid=str(q_counter)
                                                          )
@@ -392,7 +412,7 @@ def main():
                                 question_type=arg,
                                 # handler function for that question type
                                 question_function=handler_dict[arg],
-                                question_text=text  # as set above
+                                question_text=text,  # as set above
                                 ))
             q_counter += 1
             # increment these counters when a question of that type is created
