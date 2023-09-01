@@ -1,0 +1,8 @@
+yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
+S50290.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/evaluation/test//BioASP_CITI/S50290.mp4
+S50492.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/evaluation/test//CogBiD/S50492.mp4
+S50733.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/evaluation/test//CogBiD/S50733.mp4
+S50288.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/evaluation/test//BioASP_CITI_CE2/S50288.mp4
+S50084.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/evaluation/test//ENU_AVSE/S50084.mp4
+S50465.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/evaluation/test//unmodified/S50465.mp4
+S50698.mp4 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/evaluation/test//AVSE01/S50698.mp4

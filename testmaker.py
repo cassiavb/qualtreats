@@ -8,12 +8,13 @@ import os
 import sys
 # local imports
 import config
+# import config_avsec2_2023 as config
 import numpy as np
 
 # new template files can be created in Qualtrics by creating a
 # question with your specifications and exporting the survey file
-# json_filename = "combined-template.json"
 json_filename = "combined-template.json"
+# json_filename = "combined-template_avsec2.json"
 save_as = "output-survey.qsf"
 # audio templates should not be changed
 audio_html_template = "audio_template.html"
@@ -390,6 +391,8 @@ def main():
             #update url of speaker image:
             if arg == 'mc_audio':
                 image_url = url_dict[arg]['urls_images'][n] #todo: with n or without it
+            else:
+                image_url = None
             # print(image_url)
 
             # embed required url or sentence into the question text
