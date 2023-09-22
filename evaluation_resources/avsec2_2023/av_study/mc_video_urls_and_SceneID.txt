@@ -1,4 +1,4 @@
-S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52405.mp4
+S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52405.mp4
 S50520 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50520.mp4
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51686.mp4
 S51311 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51311.mp4
@@ -25,7 +25,7 @@ S51651 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52077.mp4
 S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52751.mp4
 S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51614.mp4
-S51187 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51187.mp4
+S51187 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51187.mp4
 S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52613.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
 S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51309.mp4
@@ -49,7 +49,7 @@ S50355 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBI
 S52328 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52328.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51497.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52626.mp4
-S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50725.mp4
+S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50725.mp4
 S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51653.mp4
 S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50446.mp4
 S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51707.mp4
@@ -68,12 +68,12 @@ S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE0
 S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50695.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52537.mp4
 XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed.mp4
-S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50797.mp4
+S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50797.mp4
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52119.mp4
 S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51538.mp4
 S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50264.mp4
 S52686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52686.mp4
-S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52151.mp4
+S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52151.mp4
 S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52141.mp4
 S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51747.mp4
 S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S50745.mp4
@@ -91,7 +91,7 @@ S50537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_a
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50481.mp4
 S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50254.mp4
 S52738 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52738.mp4
-S52383 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52383.mp4
+S52383 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52383.mp4
 S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50868.mp4
 S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51777.mp4
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52203.mp4
@@ -120,7 +120,7 @@ S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_J
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52765.mp4
 S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52405.mp4
 S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51617.mp4
-S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50147.mp4
+S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50147.mp4
 S52070 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52070.mp4
 XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed.mp4
 S50520 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50520.mp4
@@ -137,7 +137,7 @@ S50162 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_a
 S51651 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51651.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
 S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50681.mp4
-S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52554.mp4
+S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52554.mp4
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S52077.mp4
 S52073 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52073.mp4
 S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52751.mp4
@@ -148,7 +148,7 @@ S50355 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S50986 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50986.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50725.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51497.mp4
-S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52257.mp4
+S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52257.mp4
 S52328 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52328.mp4
 S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50994.mp4
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51096.mp4
@@ -163,7 +163,7 @@ S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_a
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52040.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S51488.mp4
 S50137 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50137.mp4
-S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52260.mp4
+S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52260.mp4
 S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51707.mp4
 S50406 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50406.mp4
 S52334 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52334.mp4
@@ -181,7 +181,7 @@ S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_
 S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51747.mp4
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50778.mp4
 S51934 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51934.mp4
-S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50118.mp4
+S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50118.mp4
 S50537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50537.mp4
 S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51977.mp4
 S52472 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52472.mp4
@@ -197,7 +197,7 @@ S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzs
 S52333 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S52333.mp4
 S50720 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S50720.mp4
 S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50312.mp4
-S51290 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51290.mp4
+S51290 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51290.mp4
 S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50872.mp4
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50481.mp4
 S51714 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51714.mp4
@@ -215,7 +215,7 @@ S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50756.mp4
 S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51772.mp4
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51686.mp4
-S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51030.mp4
+S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51030.mp4
 S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51958.mp4
 S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52405.mp4
 S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51617.mp4
@@ -242,7 +242,7 @@ S51187 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_
 S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52559.mp4
 S50946 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50946.mp4
 S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50681.mp4
-S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51309.mp4
+S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51309.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
 S51422 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51422.mp4
 S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51308.mp4
@@ -263,7 +263,7 @@ S50380 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
 S50986 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50986.mp4
 S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50275.mp4
-S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52176.mp4
+S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52176.mp4
 S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S50087.mp4
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51096.mp4
 S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51653.mp4
@@ -281,13 +281,13 @@ S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S51707.mp4
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52040.mp4
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52119.mp4
-S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51701.mp4
+S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51701.mp4
 S50026 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50026.mp4
 XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52537.mp4
 S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S52142.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52151.mp4
-S50537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50537.mp4
+S50537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50537.mp4
 S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51538.mp4
 S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50118.mp4
 S51768 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S51768.mp4
@@ -311,7 +311,7 @@ S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioAS
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52203.mp4
 S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51777.mp4
 S52738 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52738.mp4
-S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50754.mp4
+S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50754.mp4
 S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50707.mp4
 S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50254.mp4
 S51290 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51290.mp4
@@ -322,7 +322,7 @@ S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBI
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50481.mp4
 S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51305.mp4
 S52383 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52383.mp4
-S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52795.mp4
+S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52795.mp4
 S51311 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51311.mp4
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52765.mp4
 S50520 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50520.mp4
@@ -356,7 +356,7 @@ S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE0
 S51651 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51651.mp4
 S50946 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50946.mp4
 S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52613.mp4
-S51382 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51382.mp4
+S51382 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51382.mp4
 S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51614.mp4
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51096.mp4
 S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50087.mp4
@@ -371,7 +371,7 @@ S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_J
 yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
 S50380 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50380.mp4
 S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50994.mp4
-S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51497.mp4
+S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51497.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52626.mp4
 S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51711.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50725.mp4
@@ -383,7 +383,7 @@ S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_A
 S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50661.mp4
 S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S51701.mp4
 S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50385.mp4
-S51537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51537.mp4
+S51537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51537.mp4
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52040.mp4
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52119.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51488.mp4
@@ -398,7 +398,7 @@ S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzs
 S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50217.mp4
 S51768 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51768.mp4
 S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51747.mp4
-S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50264.mp4
+S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50264.mp4
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50778.mp4
 S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52141.mp4
 S51934 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51934.mp4
@@ -422,7 +422,7 @@ S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_
 S50097 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50097.mp4
 S51714 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51714.mp4
 S52738 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52738.mp4
-S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50312.mp4
+S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50312.mp4
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50481.mp4
 S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51305.mp4
 yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed.mp4
@@ -431,7 +431,7 @@ S52383 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_A
 S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50754.mp4
 S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50707.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51030.mp4
-S51146 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51146.mp4
+S51146 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51146.mp4
 S52746 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52746.mp4
 S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52795.mp4
 S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50147.mp4
@@ -464,7 +464,7 @@ S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_
 S52073 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52073.mp4
 S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51308.mp4
 S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52751.mp4
-S51224 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51224.mp4
+S51224 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51224.mp4
 S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51309.mp4
 S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50087.mp4
 S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50994.mp4
@@ -480,11 +480,11 @@ yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.
 S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51711.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50725.mp4
 S51439 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51439.mp4
-S52328 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52328.mp4
+S52328 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52328.mp4
 S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52257.mp4
 S50986 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50986.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52626.mp4
-S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50385.mp4
+S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50385.mp4
 S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50797.mp4
 S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51707.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51488.mp4
@@ -508,7 +508,7 @@ S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_
 S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52141.mp4
 S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51977.mp4
 S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51747.mp4
-S50720 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50720.mp4
+S50720 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50720.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52151.mp4
 S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51538.mp4
 yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
@@ -527,7 +527,7 @@ S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_A
 S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51777.mp4
 S51290 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51290.mp4
 S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50756.mp4
-S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50707.mp4
+S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50707.mp4
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52203.mp4
 S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50872.mp4
 S50097 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50097.mp4
@@ -540,7 +540,7 @@ S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmod
 S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50754.mp4
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52765.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51030.mp4
-S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51686.mp4
+S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51686.mp4
 S52560 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52560.mp4
 S52746 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52746.mp4
 S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51565.mp4
@@ -564,7 +564,7 @@ S51224 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_J
 S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52613.mp4
 S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52554.mp4
 S51382 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51382.mp4
-S52073 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52073.mp4
+S52073 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52073.mp4
 S50162 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50162.mp4
 S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50681.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
@@ -588,7 +588,7 @@ yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52626.mp4
 S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50446.mp4
 S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52176.mp4
-S50355 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50355.mp4
+S50355 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50355.mp4
 S51439 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51439.mp4
 S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52257.mp4
 S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51711.mp4
@@ -603,7 +603,7 @@ S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52119.mp4
 S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52260.mp4
 S50137 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S50137.mp4
-S50026 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50026.mp4
+S50026 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50026.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52537.mp4
 S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52142.mp4
 S51537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51537.mp4
@@ -620,7 +620,7 @@ S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52151.mp4
 S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50264.mp4
 yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
-S52472 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52472.mp4
+S52472 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52472.mp4
 S51768 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51768.mp4
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50778.mp4
 S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50745.mp4
@@ -632,7 +632,7 @@ S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50868.mp4
 S51714 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51714.mp4
 S52383 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52383.mp4
-S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52203.mp4
+S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52203.mp4
 S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50872.mp4
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50481.mp4
 S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50312.mp4
@@ -659,14 +659,14 @@ S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzs
 S50520 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50520.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51030.mp4
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52765.mp4
-S52746 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52746.mp4
+S52746 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52746.mp4
 S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52795.mp4
 S50140 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50140.mp4
 XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed.mp4
 S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S51617.mp4
 S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52554.mp4
 S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51309.mp4
-S50162 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50162.mp4
+S50162 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50162.mp4
 S50946 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50946.mp4
 S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S52559.mp4
 S52073 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52073.mp4
@@ -688,7 +688,7 @@ S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmod
 S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51711.mp4
 S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50446.mp4
 S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51653.mp4
-S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52626.mp4
+S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52626.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50725.mp4
 S51439 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51439.mp4
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S51096.mp4
@@ -709,7 +709,7 @@ S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE0
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52119.mp4
 S50137 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50137.mp4
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52040.mp4
-S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51707.mp4
+S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51707.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51488.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52537.mp4
 S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52260.mp4
@@ -725,7 +725,7 @@ S50720 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50778.mp4
 S52472 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52472.mp4
 S51934 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51934.mp4
-S51768 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51768.mp4
+S51768 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51768.mp4
 S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51747.mp4
 yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52151.mp4
@@ -743,7 +743,7 @@ S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52203.mp4
 S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50707.mp4
 S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50254.mp4
-S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50868.mp4
+S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50868.mp4
 S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50754.mp4
 S51714 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51714.mp4
 S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51305.mp4
@@ -763,7 +763,7 @@ S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51565.mp4
 S52070 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52070.mp4
 S52746 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52746.mp4
-S50520 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50520.mp4
+S50520 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50520.mp4
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52765.mp4
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51686.mp4
 S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50147.mp4
@@ -785,14 +785,14 @@ S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52077.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
 S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S51614.mp4
-S50946 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50946.mp4
+S50946 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50946.mp4
 S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52554.mp4
 S50162 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50162.mp4
 S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50681.mp4
 S51382 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51382.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50725.mp4
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51096.mp4
-S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50994.mp4
+S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50994.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51497.mp4
 S50380 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50380.mp4
 S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50275.mp4
@@ -818,7 +818,7 @@ S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmod
 S52334 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52334.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51488.mp4
 S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S50661.mp4
-S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52119.mp4
+S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52119.mp4
 S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50797.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52537.mp4
 S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50695.mp4
@@ -830,7 +830,7 @@ S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_J
 S51768 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51768.mp4
 S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52141.mp4
 S50537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50537.mp4
-S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50778.mp4
+S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50778.mp4
 S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51747.mp4
 S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50217.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52151.mp4
@@ -860,7 +860,7 @@ S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmod
 yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed.mp4
 S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50868.mp4
 S51290 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51290.mp4
-S51714 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51714.mp4
+S51714 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51714.mp4
 S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50707.mp4
 S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52795.mp4
 S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51565.mp4
@@ -872,7 +872,7 @@ S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51686.mp4
 S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51958.mp4
 S52560 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52560.mp4
-S50140 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50140.mp4
+S50140 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50140.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51030.mp4
 S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52405.mp4
 S52144 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52144.mp4
@@ -888,7 +888,7 @@ S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE0
 S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51309.mp4
 S51651 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51651.mp4
 S51187 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51187.mp4
-S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51614.mp4
+S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51614.mp4
 S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52554.mp4
 S51224 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51224.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
@@ -906,7 +906,7 @@ S50355 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 S50380 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50380.mp4
 S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50446.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52626.mp4
-S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51653.mp4
+S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51653.mp4
 S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52257.mp4
 yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51497.mp4
@@ -917,7 +917,7 @@ S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhan
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51096.mp4
 S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52176.mp4
 S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52142.mp4
-S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52040.mp4
+S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52040.mp4
 S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52260.mp4
 S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50661.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51488.mp4
@@ -950,12 +950,12 @@ S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_A
 S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51538.mp4
 S50720 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50720.mp4
 S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50118.mp4
-S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50745.mp4
+S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50745.mp4
 S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52141.mp4
 S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50312.mp4
 S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51777.mp4
 S50097 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50097.mp4
-S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50872.mp4
+S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50872.mp4
 S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50754.mp4
 S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51305.mp4
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50481.mp4
@@ -982,14 +982,14 @@ S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBI
 S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51958.mp4
 S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52795.mp4
 S52070 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52070.mp4
-S51311 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51311.mp4
+S51311 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51311.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51030.mp4
 S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50147.mp4
 S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52405.mp4
 XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed.mp4
 S51146 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51146.mp4
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52077.mp4
-S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51308.mp4
+S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51308.mp4
 S51187 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51187.mp4
 S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S51614.mp4
 S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52554.mp4
@@ -1019,7 +1019,7 @@ S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhan
 yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50725.mp4
 S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50275.mp4
-S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50087.mp4
+S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50087.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51497.mp4
 S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50994.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52626.mp4
@@ -1032,7 +1032,7 @@ S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52142.mp4
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52119.mp4
 S50137 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50137.mp4
-S52334 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52334.mp4
+S52334 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52334.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51488.mp4
 S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51701.mp4
 S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50695.mp4
@@ -1054,7 +1054,7 @@ S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBI
 yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
 S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52141.mp4
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50778.mp4
-S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51747.mp4
+S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51747.mp4
 S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50264.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52151.mp4
 S52333 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52333.mp4
@@ -1070,7 +1070,7 @@ S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50312.mp4
 S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50756.mp4
 S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51772.mp4
-S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51777.mp4
+S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51777.mp4
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50481.mp4
 S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51305.mp4
 yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed.mp4
@@ -1085,7 +1085,7 @@ S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S52144 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52144.mp4
 S52746 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52746.mp4
 S51311 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51311.mp4
-S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51617.mp4
+S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51617.mp4
 S51146 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51146.mp4
 S52070 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52070.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51030.mp4
@@ -1098,7 +1098,7 @@ XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed https://groups.inf.
 S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51565.mp4
 S52073 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S52073.mp4
 S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51308.mp4
-S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52559.mp4
+S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52559.mp4
 S51422 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51422.mp4
 S51187 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51187.mp4
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52077.mp4
@@ -1118,7 +1118,7 @@ S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_a
 S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52176.mp4
 S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50446.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52626.mp4
-S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51096.mp4
+S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51096.mp4
 S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51653.mp4
 S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50275.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50725.mp4
@@ -1140,7 +1140,7 @@ S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE0
 S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52260.mp4
 S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51707.mp4
 S52334 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52334.mp4
-S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50695.mp4
+S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50695.mp4
 S50026 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50026.mp4
 S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50797.mp4
 S51537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51537.mp4
@@ -1157,7 +1157,7 @@ S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzs
 S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51538.mp4
 S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50264.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52151.mp4
-S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51977.mp4
+S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51977.mp4
 S52686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52686.mp4
 yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
 S52333 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52333.mp4
@@ -1183,7 +1183,7 @@ S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioAS
 S51714 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51714.mp4
 yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed.mp4
 S50097 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50097.mp4
-S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50254.mp4
+S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50254.mp4
 S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50481.mp4
 S52738 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52738.mp4
 S50140 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50140.mp4
@@ -1200,7 +1200,7 @@ S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S51311 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51311.mp4
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51686.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51030.mp4
-S52070 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52070.mp4
+S52070 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52070.mp4
 S52144 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52144.mp4
 XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed.mp4
 S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51617.mp4
@@ -1219,7 +1219,7 @@ XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.a
 S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52613.mp4
 S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50681.mp4
 S51382 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51382.mp4
-S51422 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51422.mp4
+S51422 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51422.mp4
 S52073 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52073.mp4
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52077.mp4
 S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50275.mp4
@@ -1229,7 +1229,7 @@ S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51096.mp4
 S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52176.mp4
 S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S50994.mp4
-S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51711.mp4
+S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51711.mp4
 S50355 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50355.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51497.mp4
 yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
@@ -1256,7 +1256,7 @@ S50026 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioAS
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52040.mp4
 S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52142.mp4
 XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed.mp4
-S50406 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50406.mp4
+S50406 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50406.mp4
 S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50661.mp4
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S50778.mp4
 S52686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52686.mp4
@@ -1275,7 +1275,7 @@ S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First
 S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50264.mp4
 S50720 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50720.mp4
 S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50217.mp4
-S51934 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51934.mp4
+S51934 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51934.mp4
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52203.mp4
 S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50868.mp4
 S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50756.mp4
@@ -1288,7 +1288,7 @@ S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBI
 S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50312.mp4
 S52383 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52383.mp4
 S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51772.mp4
-S50097 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50097.mp4
+S50097 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50097.mp4
 yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed.mp4
 S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51777.mp4
 S52738 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52738.mp4
@@ -1306,7 +1306,7 @@ S52070 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBI
 S51146 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51146.mp4
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52765.mp4
 S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51030.mp4
-S52560 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52560.mp4
+S52560 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52560.mp4
 S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50147.mp4
 S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51958.mp4
 S50140 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50140.mp4
@@ -1322,7 +1322,7 @@ S51382 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhan
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52077.mp4
 S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52559.mp4
 S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51614.mp4
-S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52613.mp4
+S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52613.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
 S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51309.mp4
 S50946 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50946.mp4
@@ -1334,7 +1334,7 @@ S51711 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBI
 S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52176.mp4
 S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50275.mp4
 S50994 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50994.mp4
-S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50446.mp4
+S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50446.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52626.mp4
 S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52257.mp4
 S51439 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51439.mp4
@@ -1357,7 +1357,7 @@ S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmod
 S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S51701.mp4
 S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50695.mp4
 S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51707.mp4
-S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50661.mp4
+S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50661.mp4
 S50406 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50406.mp4
 S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50797.mp4
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52040.mp4
@@ -1366,7 +1366,7 @@ S51537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhan
 XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S52537.mp4
 S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50385.mp4
-S52686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52686.mp4
+S52686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52686.mp4
 S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50118.mp4
 S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S50217.mp4
 S51934 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51934.mp4
@@ -1384,7 +1384,7 @@ S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhan
 S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50745.mp4
 S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52141.mp4
 S52472 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52472.mp4
-S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50756.mp4
+S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50756.mp4
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52203.mp4
 S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51777.mp4
 S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50707.mp4
@@ -1417,7 +1417,7 @@ S51030 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_A
 S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51617.mp4
 S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50147.mp4
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52765.mp4
-S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51565.mp4
+S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51565.mp4
 XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed.mp4
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S51686.mp4
 S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52613.mp4
@@ -1436,9 +1436,9 @@ S50162 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52554.mp4
 S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52559.mp4
 S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52751.mp4
-S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50681.mp4
+S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50681.mp4
 S51651 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51651.mp4
-S51439 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51439.mp4
+S51439 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51439.mp4
 S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52257.mp4
 S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S50087.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51497.mp4
@@ -1460,7 +1460,7 @@ S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmod
 S50026 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50026.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52537.mp4
 S52334 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52334.mp4
-S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52142.mp4
+S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52142.mp4
 S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50385.mp4
 S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S50661.mp4
 S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51701.mp4
@@ -1484,7 +1484,7 @@ S52472 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhan
 S50720 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50720.mp4
 S52686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52686.mp4
 yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
-S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52141.mp4
+S52141 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52141.mp4
 S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50217.mp4
 S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S51977.mp4
 S51747 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51747.mp4
@@ -1493,7 +1493,7 @@ S51934 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First
 S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50745.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S52151.mp4
 S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50872.mp4
-S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50481.mp4
+S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50481.mp4
 S51290 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51290.mp4
 S50754 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50754.mp4
 S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50707.mp4
@@ -1524,7 +1524,7 @@ S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmod
 S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52405.mp4
 S52746 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52746.mp4
 S51146 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51146.mp4
-S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51958.mp4
+S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51958.mp4
 S51565 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S51565.mp4
 XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/XZfKdlIRqYk_096_15_17_S_speech_CS_M_iB4MS1hsWXU_all_15_mixed.mp4
 S52560 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52560.mp4
@@ -1540,7 +1540,7 @@ S51187 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 S52613 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52613.mp4
 S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S52751.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
-S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52077.mp4
+S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52077.mp4
 S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52559.mp4
 S51224 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S51224.mp4
 S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51614.mp4
@@ -1550,7 +1550,7 @@ S51439 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_
 S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52176.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S51497.mp4
 S50355 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50355.mp4
-S50380 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50380.mp4
+S50380 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50380.mp4
 S50446 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50446.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52626.mp4
 S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50087.mp4
@@ -1568,7 +1568,7 @@ S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE0
 S50797 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50797.mp4
 S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50695.mp4
 S52334 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52334.mp4
-S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51488.mp4
+S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51488.mp4
 S50137 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50137.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52537.mp4
 S51701 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51701.mp4
@@ -1583,7 +1583,7 @@ XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed https://groups.inf.ed.a
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52119.mp4
 S50385 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50385.mp4
 S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50118.mp4
-S52333 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52333.mp4
+S52333 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52333.mp4
 S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S50217.mp4
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50778.mp4
 S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50745.mp4
@@ -1605,7 +1605,7 @@ S52383 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52203.mp4
 S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50756.mp4
 S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51772.mp4
-S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51305.mp4
+S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51305.mp4
 S51777 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51777.mp4
 S50872 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50872.mp4
 S50707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50707.mp4
@@ -1622,7 +1622,7 @@ S52405 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE0
 S50140 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50140.mp4
 S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52765.mp4
 S51617 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51617.mp4
-S52144 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52144.mp4
+S52144 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52144.mp4
 S51311 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51311.mp4
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51686.mp4
 S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52795.mp4
@@ -1644,7 +1644,7 @@ S51614 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzs
 S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//unmodified/S51308.mp4
 S51309 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51309.mp4
 S50162 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50162.mp4
-S51651 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51651.mp4
+S51651 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51651.mp4
 S51224 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51224.mp4
 S52077 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52077.mp4
 XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_022_20_15_S_noise_CIN_hairdryer_030_20_mixed.mp4
@@ -1655,7 +1655,7 @@ S51422 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//basel
 S50681 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50681.mp4
 S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S52559.mp4
 S50380 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S50380.mp4
-S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50275.mp4
+S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50275.mp4
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S51096.mp4
 S50986 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50986.mp4
 S52328 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52328.mp4
@@ -1686,7 +1686,7 @@ S50661 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_J
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S52040.mp4
 S51537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S51537.mp4
 S50406 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S50406.mp4
-S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52537.mp4
+S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52537.mp4
 XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/XZfKdlIRqYk_035_20_14_S_noise_CIN_hairdryer_010_20_mixed.mp4
 S52119 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S52119.mp4
 S52142 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52142.mp4
@@ -1700,7 +1700,7 @@ S50118 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S52151.mp4
 S50264 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50264.mp4
 yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
-S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51538.mp4
+S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51538.mp4
 S52472 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52472.mp4
 S50778 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioASP_CITI/S50778.mp4
 S50745 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50745.mp4
@@ -1723,7 +1723,7 @@ S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52203.mp4
 yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/noise/snr20/yjYrxcGSWX4_035_20_18_S_noise_CIN_hairdryer_008_20_mixed.mp4
 S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSS/S50254.mp4
-S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S51772.mp4
+S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S51772.mp4
 S50868 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50868.mp4
 S50312 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50312.mp4
 S52144 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52144.mp4
@@ -1733,7 +1733,7 @@ S51146 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioAS
 S51686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S51686.mp4
 S52795 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S52795.mp4
 S50147 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S50147.mp4
-S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52765.mp4
+S52765 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52765.mp4
 S52560 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52560.mp4
 S50140 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S50140.mp4
 S51958 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51958.mp4
@@ -1761,7 +1761,7 @@ S52554 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First
 S52559 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S52559.mp4
 S50946 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Rezzsl_new_1/S50946.mp4
 S51308 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S51308.mp4
-S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52751.mp4
+S52751 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52751.mp4
 S50275 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S50275.mp4
 S52626 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S52626.mp4
 S51653 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S51653.mp4
@@ -1769,7 +1769,7 @@ S52328 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//BioAS
 S52176 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S52176.mp4
 S51096 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51096.mp4
 S51497 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//baseline/S51497.mp4
-S50986 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50986.mp4
+S50986 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50986.mp4
 S50087 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_JHU_1/S50087.mp4
 S50725 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S50725.mp4
 yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.ed.ac.uk/cstr3/cog-mhear/av_challenge_2022/snr_calibration/check_and_practice_files/speech/snr15/yjYrxcGSWX4_066_15_11_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed.mp4
@@ -1783,7 +1783,7 @@ S52257 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First
 S51707 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51707.mp4
 S52260 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S52260.mp4
 S52537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S52537.mp4
-S50137 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50137.mp4
+S50137 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50137.mp4
 S51488 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51488.mp4
 S50695 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50695.mp4
 S52040 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t2_s4/S52040.mp4
@@ -1811,7 +1811,7 @@ yjYrxcGSWX4_068_15_15_S_speech_CS_F_UGHzKaAOOcA_all_15_mixed https://groups.inf.
 S51768 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//merl_t1_s5/S51768.mp4
 S51538 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S51538.mp4
 S52151 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//COGBID/S52151.mp4
-S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S50217.mp4
+S50217 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S50217.mp4
 S51977 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S51977.mp4
 S52686 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S52686.mp4
 S50537 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//try6_zhewang/S50537.mp4
@@ -1822,7 +1822,7 @@ S50481 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_A
 S52203 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//TTIC_primary/S52203.mp4
 S51305 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//AVSE02/S51305.mp4
 S51290 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//First_AVSEC_Winner/S51290.mp4
-S52738 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_2/S52738.mp4
+S52738 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//rezzsl_new_2/S52738.mp4
 S50254 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ENU_AVSE/S50254.mp4
 S51772 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//Enhanced_AVSE2/S51772.mp4
 S50756 https://groups.inf.ed.ac.uk/cstr3/cog-mhear/avsec2_2023/evaluation//ict_avsu/S50756.mp4

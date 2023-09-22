@@ -24,6 +24,9 @@ abc_file3 = "resources/abc-urls-3.txt"
 
 #avse2_2023
 mc_file = "evaluation_resources/avsec2_2023/av_study/mc_video_urls_and_SceneID.txt"
+#avsec2 2023 ao and av version of the test:
+# mc_file = "evaluation_resources/avsec2_2023/ao_and_av_study/mc_video_urls_and_SceneID.txt"
+
 
 # mc_audio_file = "resources/mc-audio-urls.txt"
 # mc_audio_file = "pilot_test_resources/mc-audio-urls.txt"
@@ -31,7 +34,9 @@ mc_file = "evaluation_resources/avsec2_2023/av_study/mc_video_urls_and_SceneID.t
 # mc_audio_file = "evaluation_resources/ao_mc_audio_urls.txt"
 # mc_audio_file = "evaluation_resources/ao_mc_audio_and_images_urls.txt"
 ### Check and practice files:
-mc_audio_file = "evaluation_resources/convtasnet_study/ao_mc_audio_and_images_urls.txt"
+# mc_audio_file = "evaluation_resources/convtasnet_study/ao_mc_audio_and_images_urls.txt"
+#avsec2 2023 ao and av version of the test:
+mc_audio_file ="evaluation_resources/avsec2_2023/ao_and_av_study/mc_audio_urls_and_SceneID_and_images.txt"
 
 trs_file = "evaluation_resources/trs_videos-urls.txt" #for audio only tests
 trs_video_file = "resources/trs_videos-url.txt"
@@ -51,6 +56,9 @@ mushra_ref_folder = "G1THA"
 
 #avsec2_2023:
 mc_sentence_file = "evaluation_resources/avsec2_2023/av_study/alternatives_avsec2_for_qualtreats_w_validation.txt"
+#avsec2 2023 ao and av version of the test:
+# mc_sentence_file = "evaluation_resources/avsec2_2023/ao_and_av_study/ao_and_av_alternatives_avsec2_for_qualtreats_w_validation.txt"
+
 # mc_audio
 # mc_sentence_file = "evaluation_resources/ao_mc-audio-alternatives_file.txt"
 ### Check and practice files:

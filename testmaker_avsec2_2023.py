@@ -15,7 +15,7 @@ import numpy as np
 # question with your specifications and exporting the survey file
 # json_filename = "combined-template.json"
 json_filename = "combined-template_avsec2.json"
-save_as = "avsec2_main_AV_eval_output-survey.qsf"
+save_as = "AVSE2_2iter_output-survey.qsf"
 # audio templates should not be changed
 audio_html_template = "audio_template.html"
 video_html_template = "video_template.html"
@@ -372,27 +372,41 @@ def main():
                 sentence = mc_sentences[url_dict['mc_audio']['extra'][mc_audio_counter]]
             else:
                 sentence = None
-            if sentence is not None:
+            if sentence is not None: #in mc or mc_audio
                 # remove start and end quotes
                 sentence = sentence.strip('\'')
                 # print(sentence)
                 # split sentence to get words
                 split_sentence = sentence.split(' ')
-                # print(split_sentence)
                 # update answers to questions based on sentence files
                 for x in range(num_answers_in_closed_set):
                     #this is where words from file sentences.txt are added as answer options in multiple choice questions
                     if arg == 'mc':
-                        if x == num_answers_in_closed_set-1:
-                            basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = 'none of these'.strip('\'')  # strip is used to remove the last ' after none
-                        else:
-                            basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'') #strip is used to remove the last ' after none
-                        # print(basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'])
+                        #remove quotes from alternatives:
+                        basis_question_dict['mc']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'')
+                        #swap the term 'none' for 'none of these'
+                        for idx in range(len(basis_question_dict['mc']['Payload']['Choices'])):
+                            if basis_question_dict['mc']['Payload']['Choices'][str(idx + 1)]['Display'] == 'none':
+                                basis_question_dict['mc']['Payload']['Choices'][str(idx  + 1)]['Display'] = 'none of these'
+                                print('adding none of these as option')
+                                print(basis_question_dict['mc']['Payload']['Choices'])
+                                print(str(idx + 1))
+                        if x == num_answers_in_closed_set-1: #to debug
+                            pass
+                            # print(basis_question_dict['mc']['Payload']['Choices'])
+
                     elif arg == 'mc_audio':
-                        if x == num_answers_in_closed_set-1:
-                            basis_question_dict['mc_audio']['Payload']['Choices'][str(x + 1)]['Display'] = 'none of these'.strip('\'')  # strip is ued to remove the last ' after none
-                        else:
-                            basis_question_dict['mc_audio']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'') #strip is ued to remove the last ' after none
+                        # remove quotes from alternatives:
+                        basis_question_dict['mc_audio']['Payload']['Choices'][str(x + 1)]['Display'] = split_sentence[x].strip('\'')
+                        # swap the term 'none' for 'none of these'
+                        for idx in range(len(basis_question_dict['mc_audio']['Payload']['Choices'])):
+                            if basis_question_dict['mc_audio']['Payload']['Choices'][str(idx + 1)]['Display'] == 'none':
+                                basis_question_dict['mc_audio']['Payload']['Choices'][str(idx + 1)]['Display'] = 'none of these'
+
+                        if x == num_answers_in_closed_set - 1:  # to debug
+                            pass
+                            # print(basis_question_dict['mc_audio']['Payload']['Choices'])
+
             mushra_ref_id = n*(len(url_set)+1) # unique id for every ref sample
             #update url of speaker image:
             if arg == 'mc_audio':

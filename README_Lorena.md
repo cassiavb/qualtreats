@@ -11,6 +11,8 @@ To create MC questions with video stimuli run:
 
 python testmaker.py -mc -nblocks 17
 python testmaker_avsec2_2023.py -mc -nblocks 17
+python testmaker_avsec2_2023.py -mc -nblocks 4 #in the ao and av version
+
 
 To create MC questions with audio-only stimuli run:
 
